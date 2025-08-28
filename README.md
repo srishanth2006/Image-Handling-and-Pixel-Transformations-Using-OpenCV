@@ -1,6 +1,6 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-## NAME : ALDRIN.S
-## REG NO : 212223240005
+## NAME : SRISHANTH J
+## REG NO : 212223240160
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
@@ -32,8 +32,8 @@ Display the original, lower contrast, and higher contrast images.
 Split the image (boy.jpg) into B, G, R components and display the channels
 
 ## Program Developed By:
-- **Name:** AVINASH T
-- **Register Number:** 212223230026
+- **Name:** SRISHANTH J
+- **Register Number:** 212223240160
 
   ### Ex. No. 01
 
